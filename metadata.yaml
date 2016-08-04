@@ -1,0 +1,33 @@
+_repo: Lessons-in-Life-for-All-Who-Will-Read-Them_4616
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Herbert, Uncle
+    - Arthur, Timothy Shay
+    - Uncle Herbert
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The right of way -- Coals of fire -- A new pleasure -- The daughter-in-law
+  -- Smith and Jones; or, the town lot -- He must have meant me -- For the fun of
+  it -- Forgive and forget -- Paying the minister -- Had I been consulted -- The mistakes
+  of a "rising family" -- The means of enjoyment.
+title: Lessons in Life, for All Who Will Read Them
+url: http://www.gutenberg.org/ebooks/4616
